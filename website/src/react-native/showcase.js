@@ -344,7 +344,14 @@ var featured = [
     linkAppStore: 'https://itunes.apple.com/en/app/shou-ji-bai-du-hai-liang-xin/id382201985?l=en&mt=8',
     infoLink: 'http://baike.baidu.com/link?url=TW8YhcVN4tO_Jz5VqMclCjGhf12EEqMD_TeVC6efe2REZlx80r6T0dX96hdmNl36XogLyExXzrvFU9rFeqxg_K',
     infoTitle: 'Baidu is a search engine that has 600 million users.',
-  }
+  },
+  {
+    name: '58DaoJia(58到家)',
+    icon: 'http://a3.mzstatic.com/us/r30/Purple62/v4/41/cb/54/41cb5478-7057-8891-e611-4c377ed0c022/icon175x175.jpeg',
+    linkAppStore: 'https://itunes.apple.com/us/app/58dao-jia-58tong-cheng-qi/id897342825?mt=8',
+    infoLink: 'http://www.daojia.com',
+    infoTitle: '58 DaoJia provides a new way of life services for people.',
+  },
 ];
 
 featured.sort(function(a, b) {
